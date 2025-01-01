@@ -26,7 +26,6 @@
 
 ## 📫 How to reach me
 - Email: gilangmgm98@gmail.com
-- Line: gilangmgm
 
 ## Languages & Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
