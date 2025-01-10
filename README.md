@@ -62,6 +62,9 @@
 <a href="https://firebase.google.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/New_Firebase_logo.svg" alt="Firebase" width="30">
 </a>
+<div>
+
+</div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilangmgm98&layout=compact&theme=dracula" alt="Top Langs" style="width: 45%;"/>
 
 <!--
