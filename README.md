@@ -12,7 +12,7 @@
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=gilangmgm98&show_icons=true&theme=dracula" alt="Gilang's GitHub stats" style="width: 45%; margin-right: 10px;"/>
 
-## ⏳ Tracked Code Duration
+## ⏳ Tracked Code Duration Using WakaTime Coding Stats
 <a href="https://wakatime.com/@deffdd7f-5092-4ab2-b4dd-be75dd5f3cf2"><img src="https://wakatime.com/badge/user/deffdd7f-5092-4ab2-b4dd-be75dd5f3cf2.svg" alt="Total time coded since Nov 12 2022" /></a>
 
 ## 🚀 About Me
