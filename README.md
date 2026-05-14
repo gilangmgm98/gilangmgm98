@@ -18,7 +18,7 @@
 ## 🚀 About Me
 - 👯 I’m looking to collaborate on open-source projects
 - 🌱 I’m learning TypeScript and NestJS
-- 🔭 I’m currently working on eCentrix
+- 🔭 I’m currently working on CODE.ID
 
 ## Connect with me 
 <a href="https://www.linkedin.com/in/gilangmgm/">
