@@ -90,8 +90,8 @@ Customer data maintenance and monitoring.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilangmgm98&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilangmgm98&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gilangmgm98&theme=dracula" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gilangmgm98&theme=dracula" />
 
 <img height="180em" src="https://streak-stats.demolab.com/?user=gilangmgm98&theme=dracula&hide_border=true" />
 
