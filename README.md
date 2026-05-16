@@ -1,10 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Gilang+Murdiyanto;Backend+Developer+%40+CODE.ID;TypeScript+%C2%B7+NestJS+%C2%B7+Node.js;REST+APIs+%26+Scalable+Systems)](https://github.com/gilangmgm98)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Gilang+Murdiyanto;Backend+Developer+%40+CODE.ID;TypeScript+%C2%B7+NestJS+%C2%B7+Node.js;Building+Scalable+REST+APIs+%F0%9F%9A%80)](https://github.com/gilangmgm98)
 
-<img src="https://komarev.com/ghpvc/?username=gilangmgm98&label=Profile%20Views&color=bd93f9&style=flat" alt="Profile Views" />
-
-**Backend Developer @ Code Development Indonesia (MyTelkomsel) | TypeScript · NestJS · Node.js | REST APIs & Scalable Systems | MySQL | 3+ yrs**
+<img src="https://komarev.com/ghpvc/?username=gilangmgm98&label=Profile+Views&color=bd93f9&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -12,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-Backend developer with 3+ years of experience building scalable REST APIs, high-performance backend systems, and AI/data-driven products. Passionate about clean architecture, performance tuning, and delivering reliable production services. Currently owning backend services for **MyTelkomsel** — focusing on API design, performance optimization, and maintainability.
+Backend developer with **3+ years** of experience building scalable REST APIs, high-performance backend systems, and AI/data-driven products. Passionate about clean architecture, performance tuning, and delivering reliable production services. Currently owning backend services for **MyTelkomsel** — focusing on API design, performance optimization, and maintainability.
 
 - 🔭 **Back End Developer** at **[CODE.ID](https://code.id)** — scope, design, implement, and support backend services for MyTelkomsel
 - 💡 Experienced in **PBX (Asterisk), WhatsApp Business API integration**, and building centralized data platforms
@@ -23,25 +21,28 @@ Backend developer with 3+ years of experience building scalable REST APIs, high-
 
 ### 💼 Experience
 
-**Back End Developer** — [CODE.ID](https://code.id) *(Oct 2025 – Present · Jakarta · Hybrid)*  
-Own backend services and REST APIs for **MyTelkomsel** — scope, design, implementation, and production support. Strengthen reliability through robust validation, clear error handling, and consistent coding standards. Focus areas: performance tuning (query/index optimization), API consistency, and maintainability. Tech: `TypeScript` `Node.js` `NestJS` `MySQL` `REST APIs` `Git`
+**Back End Developer** — [CODE.ID](https://code.id) *(Oct 2025 – Present · Jakarta · Hybrid)*
+Own backend services and REST APIs for **MyTelkomsel** — scope, design, implementation, and production support. Strengthen reliability through robust validation, clear error handling, and consistent coding standards.
+`TypeScript` `Node.js` `NestJS` `MySQL` `REST APIs` `Git`
 
-**Back End Developer** — [eCentrix Solutions](https://ecentrix.co.id) *(Jan – Oct 2025 · Jakarta · On-site)*  
-Delivered TypeScript/NestJS/Node.js backends for AI & data products, improving processing time by ~20% via profiling and Sequelize ORM optimization. Engineered a centralized channel-integration platform aggregating 4 sources (Google Play, App Store, Google Business, YouTube). Integrated Asterisk 16 PBX and Meta WhatsApp Business API. Tech: `TypeScript` `NestJS` `Node.js` `Sequelize ORM` `MySQL` `Asterisk PBX` `WhatsApp Business API` `Git`
+**Back End Developer** — [eCentrix Solutions](https://ecentrix.co.id) *(Jan – Oct 2025 · Jakarta · On-site)*
+Delivered TypeScript/NestJS/Node.js backends for AI & data products, improving processing time by ~20% via profiling and Sequelize ORM optimization. Engineered a centralized channel-integration platform aggregating 4 sources. Integrated Asterisk 16 PBX and Meta WhatsApp Business API.
+`TypeScript` `NestJS` `Node.js` `Sequelize ORM` `MySQL` `Asterisk PBX` `WhatsApp Business API`
 
-**Web Developer** — [eCentrix Solutions](https://ecentrix.co.id) *(Jun 2023 – Jan 2025 · Jakarta · On-site)*  
-Built full-stack web apps with PHP/CodeIgniter 3. Optimized MySQL performance (indexes, query tuning). Delivered features end-to-end and maintained service quality on Apache/Nginx. Tech: `PHP` `CodeIgniter 3` `MySQL` `RESTful APIs` `HTML5` `CSS3` `JavaScript` `jQuery` `Git` `Apache/Nginx`
+**Web Developer** — [eCentrix Solutions](https://ecentrix.co.id) *(Jun 2023 – Jan 2025 · Jakarta · On-site)*
+Built full-stack web apps with PHP/CodeIgniter 3. Optimized MySQL performance (indexes, query tuning). Delivered features end-to-end and maintained service quality on Apache/Nginx.
+`PHP` `CodeIgniter 3` `MySQL` `RESTful APIs` `HTML5` `CSS3` `JavaScript` `jQuery`
 
 <details>
 <summary>Earlier Roles</summary>
 
-**IT Support Specialist** — Interskala Mandiri Indonesia *(Jan 2022 – Mar 2023)*  
+**IT Support Specialist** — Interskala Mandiri Indonesia *(Jan 2022 – Mar 2023)*
 Network maintenance, troubleshooting, MikroTik configuration, hardware/software support.
 
-**Network Operations Center** — Integrasi Logistik Cipta Solusi *(Jun 2019 – Jun 2020)*  
+**Network Operations Center** — Integrasi Logistik Cipta Solusi *(Jun 2019 – Jun 2020)*
 Data maintenance, monitoring, and on-site support.
 
-**Access Service Operation (Intern)** — Telkom Indonesia *(May – Jul 2018)*  
+**Access Service Operation (Intern)** — Telkom Indonesia *(May – Jul 2018)*
 Customer data maintenance and monitoring.
 
 </details>
@@ -89,11 +90,10 @@ Customer data maintenance and monitoring.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilangmgm98&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilangmgm98&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilangmgm98&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilangmgm98&layout=compact&theme=dracula&hide_border=true" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gilangmgm98&theme=dracula&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=gilangmgm98&theme=dracula&hide_border=true" />
 
 </div>
 
@@ -115,6 +115,6 @@ Customer data maintenance and monitoring.
 
 <div align="center">
 
-![Snake animation](https://github.com/gilangmgm98/gilangmgm98/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/gilangmgm98/gilangmgm98/output/github-contribution-grid-snake.svg)
 
 </div>
